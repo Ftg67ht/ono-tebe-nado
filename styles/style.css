@@ -377,7 +377,15 @@
   list-style-type: none;
   padding: 0px;
   margin: 0px;
-  z-index: 20;
+}
+
+.card-name-headline {
+  font-family: inherit;
+  color: #ffffff;
+  font-family: Raleway, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 120%;
 }
 
 .card-content {
